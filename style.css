@@ -50,7 +50,7 @@ h1{
 .banner{
     width:100%;
     height:100vh;
-    background-image: url("/assets/home-dog.png");
+    background-image: url("./assets/home-dog.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
